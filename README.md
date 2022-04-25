@@ -1,12 +1,18 @@
-### Hi there 👋
+### Oi, sou Lucas!👋
 
-- 🔭 I’m currently studying in: EBAC
-- 🌱 I’m currently learning: JavaScript
-- 📫 How to reach me: datsik771@outlook.com
-- 😄 Pronouns: He
+- Brasileiro. 🌎
+- Pronomes: Ele/Dele
+- Estudante de Fullstack na Escola Britanica de Artes Criativas. 📚
+- Consigo ler e escrever inglês de forma avançada. ⌨️
+- Consigo falar e compreender inglês de forma básica. 🗣️
+- Meu perfil profissional [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-830636202/)
+- Tecnologias: HTML, CSS, JavaScript, NodeJS e BootStrap.
 
-<div style="display:inline_block> <br>
-            <img aling="left" alt="Lutece-html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-</div>
-            
+### HI, i am Lucas! 😊
+
+- I'm Brazilian
+- I can read and write English in an advanced way. ⌨️
+- I can speak and understand English in a basic way. 🗣️
+- Professional profile [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-830636202/)
+- Technologies: HTML, CSS, JavaScript, NodeJS and BootStrap. 
           
