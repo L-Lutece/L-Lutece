@@ -1,10 +1,7 @@
-### Oi, sou Lucas!
+### Hi, i am Lucas!
 
-- Estudante de Fullstack na Escola Britanica de Artes Criativas. 📚
-- Porfólio <a href="https://portfolio-hyri.vercel.app/"> Vercel </a>
+- My businnes card, with my projects and technologies That I know (in portugues :0)<a href="https://portfolio-hyri.vercel.app/"> Vercel </a>.
+- I'm available to be hired as Front End Jr.
+- I'm currently learning database.
 
-### HI, i am Lucas! 
-
-- I can read and write English in an advanced way. ⌨️
-- I can speak and understand English in a basic way. 🗣️
           
