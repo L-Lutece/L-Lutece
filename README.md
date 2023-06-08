@@ -1,7 +1,7 @@
-### Hi, i am Lucas!
+### Olá sou Lucas!
 
-- My businnes card, with my projects and technologies (in portugues :0)<a href="https://portfolio-hyri.vercel.app/"> Vercel </a>.
-- I'm available to be hired as Front End Jr.
-- I'm currently learning Python.
+- Meu Portfólio/Cartão de Visitas pode ser encontrado no <a href="https://portfolio-hyri.vercel.app/"> Vercel </a>.
+- Estou disponivel como Desenvolvedor Full-Stack Python
+- Estou atualmente Estudando Python
 
           
